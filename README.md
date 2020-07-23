@@ -1,27 +1,43 @@
-# Giuliosa
+<h1 align="center">
+    <b>giuliosa</b>.com.br
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.27.
+<h4 align="center">
+    ☕ Code and tea
+</h4>
 
-## Development server
+<p align="center">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+  <a href="https://github.com/giuliosa/giuliosa.github.io/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/giuliosa/giuliosa.github.io">
+  </a>
 
-## Code scaffolding
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 💻 Aplicação
 
-## Build
+Foi desenvolvida como site e portfolio pessoal utilizando as tecnologias listadas abaixo. 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+O site contém:
 
-## Running unit tests
+* Formação
+* Descrição
+* Últimos Artigos 
+* Curriculum
+* Extra - Portfólio Data Science
+* Certificados
+* Links de Redes Sociais
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🚀 Tecnologias
 
-## Running end-to-end tests
+* Angular 8
+<!-- 
+## 🔗 Links
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* [Creative Tim](https://www.creative-tim.com/)
+* [Medium](https://medium.com/@lennonalvesdias) -->
 
-## Further help
+## 📝 Licença
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
